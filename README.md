@@ -35,7 +35,7 @@
 
 ---
 
-## 📈 GitHub 통계
+## 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonseok-kim&layout=compact&theme=tokyonight)  
 ![Junseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=joonseok-kim&show_icons=true&theme=tokyonight)
