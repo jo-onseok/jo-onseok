@@ -10,9 +10,10 @@
 
 | 구분 | 사용 기술 |
 |------|------------|
-| **RPA** | ![UiPath](https://img.shields.io/badge/UiPath-0078D7?style=for-the-badge&logo=uipath&logoColor=white) ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6C37?style=for-the-badge&logo=automationanywhere&logoColor=white) |
-| **프로그래밍** | Python, Java, SQL |
-| **기타** | SAP ABAP(기초), JS/HTML/CSS(기초) |
+| **RPA** | ![UiPath](https://img.shields.io/badge/UiPath-0078D7?style=for-the-badge&logo=uipath&logoColor=white)![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6C37?style=for-the-badge&logo=automationanywhere&logoColor=white) |
+| **프로그래밍** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+ |
+| **기타** | ![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 
 ---
 
