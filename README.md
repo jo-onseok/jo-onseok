@@ -30,8 +30,8 @@
 
 ## 📫 연락처
 
-- 📧 이메일: [jo_onseok@naver.com](mailto:jo_onseok@naver.com)  
-- 🗒️ Notion: *(추가 예정)*  
+- 📧 이메일 [jo_onseok@naver.com](mailto:jo_onseok@naver.com)  
+- 🗒️ Notion *(추가 예정)*  
 
 ---
 
