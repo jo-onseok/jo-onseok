@@ -10,7 +10,8 @@
 
 | 구분 | 사용 기술 |
 |------|------------|
-| **RPA** | UiPath, Automation Anywhere |
+| **RPA** | ![UiPath](https://img.shields.io/badge/UiPath-0078D7?style=for-the-badge&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6C37?style=for-the-badge&logo=automationanywhere&logoColor=white) |
 | **프로그래밍** | Python, Java, SQL |
 | **기타** | SAP ABAP(기초), JS/HTML/CSS(기초) |
 
